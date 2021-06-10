@@ -19,3 +19,6 @@ Case study:
 # The dashboard solution
 
 ![image](https://user-images.githubusercontent.com/61543022/113022765-3fae5680-9185-11eb-9ac0-f9779b7a944c.png)
+
+References:
+https://web.eecs.umich.edu/~dkoutra/tut/sdm14_part1a.pdf
